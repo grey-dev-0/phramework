@@ -1,0 +1,9 @@
+{
+  "name": "Grey Dev PHP framework",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "GD\\": "app/"
+    }
+  }
+}
